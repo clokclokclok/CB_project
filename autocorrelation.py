@@ -2,6 +2,8 @@
 #-A script to perform autocorrelation analysis on a given array-#
 #################################################################
 
+#THIS SCRIPT IS WRONG#
+
 def getProbability(value,distribution):
     """compute the probability of a vuale
     in a distribution"""
